@@ -9,6 +9,8 @@ import pages.RegisterTestPage;
 
 public class Story7Test extends TestBasis{
 
+    //Nicolas Vanden Bosch r0798086
+    
     @Override
     public void setUp(){
         super.setUp();
